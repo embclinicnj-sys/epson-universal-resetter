@@ -2,6 +2,10 @@
 
 A free standalone Windows utility from **EMB Clinic LLC**.
 
+**[Download the free resetter ZIP](https://github.com/embclinicnj-sys/epson-universal-resetter/releases/download/v1.0.0-owner-test/Epson_Universal_Resetter_Free.zip)**
+
+[Release details and checksum](https://github.com/embclinicnj-sys/epson-universal-resetter/releases/tag/v1.0.0-owner-test)
+
 The download includes the existing resetter executable with the PrintFlow Pro
 logo and splash screen, the model-specific PDF guide, our copyright/free-use
 notice, third-party notices, and checksums. No PrintFlow Pro installation,
