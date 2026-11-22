@@ -1,0 +1,15 @@
+PRINTFLOW PRO - EPSON UNIVERSAL RESETTER
+
+Copyright (c) 2026 EMB Clinic LLC. All rights reserved.
+Developed by EMB Clinic LLC under the PrintFlow Pro brand.
+
+This standalone utility is free to download and use. No activation, serial
+number, sign-in, or payment is required.
+
+This copyright notice covers our original software, branding, and documentation.
+Third-party components retain their own copyrights and license terms;
+see THIRD_PARTY_NOTICES.txt.
+
+Epson is a trademark of its respective owner. This utility is independently
+provided and is not affiliated with or endorsed by Epson.
+
